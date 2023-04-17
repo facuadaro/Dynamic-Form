@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "icon": "🍅",
+        "name": "Tomato",
+        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": "2",
+        "icon": "🥝",
+        "name": "Kiwi",
+        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": "3",
+        "icon": "🍌",
+        "name": "Banana",
+        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    }
+]
