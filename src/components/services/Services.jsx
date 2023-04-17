@@ -9,25 +9,25 @@ function services() {
 
     const servicesArray = [
         {
-            title: "Wordpress Course",
-            subtitle: "Lear all about this great CMS",
+            title: "HBO MAX",
+            subtitle: "HBO Max, la plataforma streaming inigualable de HBO para ver las mejores películas, series y todos los nuevos Max Original",
             image: imgCourse1,
             footer: "Go to the course ➡️",
-            link: "#!"
+            link: "https://www.hbomax.com/ar/es"
         },
         {
-            title: "Prestashop Course",
-            subtitle: "Lear all about this great CMS",
+            title: "Netflix",
+            subtitle: "Disfruta de Netflix, películas y series en streaming en tu smart TV, consola, PC, Mac, móvil, tableta y más dispositivos.",
             image: imgCourse2,
             footer: "Go to the course ➡️",
-            link: "#!"
+            link: "https://www.netflix.com/browse"
         },
         {
-            title: "React Course",
-            subtitle: "Lear all about this great CMS",
+            title: "Prime Video",
+            subtitle: "Disfruta de Amazon Original exclusivos, películas y series populares. Disfruta ahora, cancela cuando quieras.",
             image: imgCourse3,
             footer: "Go to the course ➡️",
-            link: "#!"
+            link: "https://www.primevideo.com/offers/nonprimehomepage/ref=dv_web_force_root"
         }
     ]
 
