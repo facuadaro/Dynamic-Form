@@ -14,7 +14,7 @@ function NavBarMenu() {
                     <Navbar.Collapse className="justify-content-end">
                         <Navbar.Text>
                             Signed in as:{" "}
-                            <a href="www.instagram.com/facuu.adaro" target="_blank" rel="noreferrer">Facu Adaro</a>
+                            <a href="www.instagram.com/facuu.adaro" target="_blank">Facu Adaro</a>
                         </Navbar.Text>
                     </Navbar.Collapse>
                 </Container>

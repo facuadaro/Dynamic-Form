@@ -34,7 +34,7 @@ function DynamicForm() {
                     <div className="actions">
                         <div className="container-text">
                             {step > 1 && step < 4 && (
-                                <p className="before" onClick={showBeforeStep}>Before Step⬅️</p>
+                                <p className="before" onClick={showBeforeStep}>Before Step ⬅️</p>
                             )}
                         </div>
                         <div className="container-text">
@@ -61,7 +61,7 @@ function getPageByStep(step, setStep) {
         )
     } else if (step === 3) {
         return (
-            <ThirdStep />
+            <ThirdStep setStep={setStep}/>
         )
     }
 }
