@@ -1,4 +1,4 @@
-
+import Services from './components/services/Services';
 import NavBarMenu from './components/NavBarMenu';
 import Introduction from './components/introduction/Introduction';
 
@@ -7,6 +7,7 @@ function App() {
     <div>
       <NavBarMenu />
       <Introduction />
+      <Services />
     </div>
   );
 }
